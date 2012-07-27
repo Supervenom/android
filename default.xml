@@ -272,4 +272,9 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
   <project path="android" name="CyanogenMod/android" />
+  
+  <project path="vendor/semc" name="TheMuppets/proprietary_vendor_semc" />
+  <project path="device/semc/msm7x30-common" name="CyanogenMod/android_device_semc_msm7x30-common" />
+  <project path="device/semc/zeus" name="CyanogenMod/android_device_semc_zeus" />
+  <project path="device/semc/zeus-common" name="CyanogenMod/android_device_semc_zeus-common" />
 </manifest>
